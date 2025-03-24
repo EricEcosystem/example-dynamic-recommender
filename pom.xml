@@ -22,7 +22,7 @@
                 <repositories>
                     <repository>
                         <id>ecosystem-repo</id>
-                        <url>file:///workspace/source/maven-local-repo/>
+                        <url>file:///workspace/source/maven-local-repo</url>
                         <snapshots>
                             <updatePolicy>always</updatePolicy>
                         </snapshots>
@@ -60,7 +60,7 @@
     <repositories>
         <repository>
             <id>ecosystem-repo</id>
-            <url>https://maven.ecosystem.ai/</url>
+            <url>file:///workspace/source/maven-local-repo</url>
         </repository>
     </repositories>
 

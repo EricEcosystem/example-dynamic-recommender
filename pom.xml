@@ -62,6 +62,10 @@
             <id>ecosystem-repo</id>
             <url>file:///workspace/maven-local-repo</url>
         </repository>
+        <repository>
+            <id>central</id>
+            <url>file:///workspace/maven-local-repo</url>
+        </repository>
     </repositories>
 
     <dependencies>
